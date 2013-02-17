@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+S3method(plot, SDD)
+S3method(print, SDD)
+importFrom(Hmisc, cut2)
+importFrom(sm, sm.density)
+importFrom(tseries, garch)
+importFrom(stats, acf)
+import(rpanel, rgl)
