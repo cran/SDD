@@ -140,9 +140,11 @@ a vector. It contains the adjusted probabilities for the simultaneous independen
 }
 
 \references{
-Bagnato L, De Capitani L, Punzo A (2013a). Improving the autodependogram using the Kulback-Leibler divergence. \emph{Communications in Statistics - Simulation and Computation}. (Submitted).
+Bagnato L, De Capitani L, Mazza A, Punzo A (2015). SDD: An {R} Package for Serial Dependence Diagrams. \emph{Journal of Statistical Software}, \bold{64}(2), 1-19. URL: \url{http://www.jstatsoft.org/v64/c02/}
 
-Bagnato L, De Capitani L, Punzo A (2013b). Testing Serial Independence via Density-Based Measures of Divergence. \emph{Methodology and Computing in Applied Probability}. doi:10.1007/s11009-013-9320-4.
+Bagnato L, De Capitani L, Punzo A (2013a). Improving the autodependogram using the Kulback-Leibler divergence. \emph{arXiv}:1306.5006 [stat.ME], URL: \url{http://arxiv.org/pdf/1306.5006v1.pdf}
+
+Bagnato L, De Capitani L, Punzo A (2013b). Testing Serial Independence via Density-Based Measures of Divergence. \emph{Methodology and Computing in Applied Probability}, \bold{16}(3), 627-641.
 
 Bagnato L, De Capitani L, Punzo A (2014). Detecting Serial Dependencies with the Reproducibility Probability Autodependogram. \emph{Advances in Statistical Analysis}, \bold{98}(1), 35-61.
 

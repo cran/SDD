@@ -1,0 +1,22 @@
+citHeader("To cite SDD in publications use:")
+
+citEntry(entry = "Article",
+  title        = "{SDD}: An {R} Package for Serial Dependence Diagrams",
+  author       = personList(as.person("Luca Bagnato"),
+                   person("Lucio", "De Capitani"),
+                   as.person("Angelo Mazza"),
+                   as.person("Antonio Punzo")),
+  journal      = "Journal of Statistical Software",
+  year         = "2015",
+  volume       = "64",
+  number       = "2",
+  pages        = "1--19",
+  url          = "http://www.jstatsoft.org/v64/c02/",
+
+  textVersion  =
+  paste("Luca Bagnato, Lucio De Capitani, Angelo Mazza, Antonio Punzo (2015).",
+        "SDD: An R Package for Serial Dependence Diagrams.",
+        "Journal of Statistical Software, 64(2), 1-19.",
+        "URL http://www.jstatsoft.org/v64/c02/.")
+)
+

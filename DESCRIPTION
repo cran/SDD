@@ -1,16 +1,16 @@
 Package: SDD
 Type: Package
 Title: Serial Dependence Diagrams
-Version: 1.1
-Date: 2014-02-21
+Version: 1.2
+Date: 2015-02-24
 Author: Luca Bagnato, Lucio De Capitani, Angelo Mazza and Antonio Punzo
 Maintainer: Angelo Mazza <a.mazza@unict.it>
-Description: This package allows for  computing (and by default plotting) different types of serial dependence diagrams.
+Description: Allows for  computing (and by default plotting) different types of serial dependence diagrams.
 License: GPL-2
 LazyLoad: yes
 Depends: R (>= 2.15.0)
 Imports: Hmisc,sm,tseries,stats,rpanel,rgl
-Packaged: 2014-02-27 14:13:22 UTC; Angelo
 NeedsCompilation: no
+Packaged: 2015-02-25 09:00:17 UTC; Angelo
 Repository: CRAN
-Date/Publication: 2014-02-27 15:24:20
+Date/Publication: 2015-02-25 10:33:48
